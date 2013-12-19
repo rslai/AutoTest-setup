@@ -1,1 +1,1 @@
-存放AutoTest运行所有lib库
+存放AutoTest运行所需所有lib库
